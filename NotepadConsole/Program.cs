@@ -7,7 +7,7 @@
 
     public class NotepadTests
     {
-        private const string TestFilePath = "elin_not.txt";
+        private const string TestFilePath = "test_note.txt";
 
         [Fact]
         public void NewNote_ShouldBeEmpty()
